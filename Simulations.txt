@@ -1,0 +1,96 @@
+Tower says: Baloon#B1(0) registered to weather tower
+Tower says: Baloon#B2(1) registered to weather tower
+Tower says: JetPlane#J1(2) registered to weather tower
+Tower says: Helicopter#H1(3) registered to weather tower
+Tower says: Helicopter#H2(4) registered to weather tower
+Tower says: Helicopter#H3(5) registered to weather tower
+Tower says: Baloon#B3(6) registered to weather tower
+Tower says: JetPlane#J2(7) registered to weather tower
+Tower says: Helicopter#H4(8) registered to weather tower
+Baloon#B1(0): Umbrella ella ellla ee ee eee
+Baloon#B2(1): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J1(2): I'm hot af
+Helicopter#H1(3): Snow is not the most optimal condition to be fair
+Helicopter#H2(4): Snow is not the most optimal condition to be fair
+Helicopter#H3(5): the rain doesnt affect me...
+Baloon#B3(6): ...............
+JetPlane#J2(7): Nothing sinister ovah hea
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): Let's go to the beach, lets go get away
+Baloon#B2(1): Let's go to the beach, lets go get away
+JetPlane#J1(2): I'm hot af
+Helicopter#H1(3): Snow is not the most optimal condition to be fair
+Helicopter#H1(3) landing.
+Tower says: Helicopter#H1(3) unregistered from weather tower.
+Helicopter#H3(5): Houston we got a problem here
+Baloon#B3(6): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J2(7): I thought winter was long over :/
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): ...............
+Baloon#B2(1): ...............
+JetPlane#J1(2): I'm hot af
+Helicopter#H2(4): Snow is not the most optimal condition to be fair
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Baloon#B3(6): Let's go to the beach, lets go get away
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): hot air baloon in the snow... who had this brilliant idea?
+Baloon#B2(1): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J1(2): I'm hot af
+Helicopter#H2(4): Snow is not the most optimal condition to be fair
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Baloon#B3(6): ...............
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): Let's go to the beach, lets go get away
+Baloon#B2(1): Let's go to the beach, lets go get away
+JetPlane#J1(2): I'm hot af
+Helicopter#H2(4): Snow is not the most optimal condition to be fair
+Helicopter#H2(4) landing.
+Tower says: Helicopter#H2(4) unregistered from weather tower.
+Baloon#B3(6): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): ...............
+Baloon#B2(1): ...............
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Baloon#B3(6): Let's go to the beach, lets go get away
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B1(0): hot air baloon in the snow... who had this brilliant idea?
+Baloon#B1(0) landing.
+Tower says: Baloon#B1(0) unregistered from weather tower.
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Baloon#B3(6): ...............
+JetPlane#J2(7): I thought winter was long over :/
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B2(1): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Baloon#B3(6): hot air baloon in the snow... who had this brilliant idea?
+Baloon#B3(6) landing.
+Tower says: Baloon#B3(6) unregistered from weather tower.
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B2(1): Let's go to the beach, lets go get away
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B2(1): ...............
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B2(1): hot air baloon in the snow... who had this brilliant idea?
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+JetPlane#J2(7): I'm hot af
+Helicopter#H4(8): thank god I have good ventilation :)
+Baloon#B2(1): Let's go to the beach, lets go get away
+JetPlane#J1(2): I'm hot af
+Helicopter#H3(5): Snow is not the most optimal condition to be fair
+Helicopter#H3(5) landing.
+Tower says: Helicopter#H3(5) unregistered from weather tower.
+Helicopter#H4(8): thank god I have good ventilation :)
